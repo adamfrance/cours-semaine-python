@@ -4,7 +4,7 @@
 
 ```python
 def double(number):
-    result = number * 2
+    result = number  2
     print(result)
 
 double(24)
@@ -12,6 +12,3 @@ double(24)
 calcul = double(56)
 print(calcul)
 ```
-
-
-
